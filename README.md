@@ -11,8 +11,8 @@ javascript:(function(){var e=document.createElement("div"),t=document.documentEl
 ```
 
 
-2. Not making bookmarkeet but just put in the console
-copy and paste below code in the console
+2. Not making bookmarklet but just put in the console
+- copy and paste below code in the console
 
 ```javascript
 (function() {
